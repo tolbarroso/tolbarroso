@@ -3,7 +3,7 @@
 
 ⚡ I’m looking for more projects on JS, HTML and CSS.
 
-🔭 I'm currently the COO of Healthways Startup and I work with the development of systems and applications for the healthcare area.
+🔭 I'm currently the COO of Healthways Startup and I work with the development of systems and app for the healthcare area.
 
 ## Contacts:
 <div>
