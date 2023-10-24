@@ -1,5 +1,5 @@
 # Hi there, welcome to my GitHub Profile 👋
-🌱 I’m currently learning Dart to use on Flutter Projects.
+🌱 I’m currently learning Python to use on projects.
 
 ⚡ I’m looking for more projects on JS, HTML and CSS.
 
