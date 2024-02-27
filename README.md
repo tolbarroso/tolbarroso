@@ -3,8 +3,6 @@
 
 ⚡ I’m looking for more projects on JS, HTML and CSS.
 
-🔭 I'm currently the CEO of Healthways Startup and I work with the development of systems and app for the healthcare area.
-
 ## Contacts:
 <div>
 <a href="https://instagram.com/dev.carolb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
